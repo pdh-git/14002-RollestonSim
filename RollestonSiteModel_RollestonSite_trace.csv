@@ -1,6 +1,4 @@
 Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-0,--,--,--,--,Unable to evaluate status expression for graphic.
-0,--,--,--,--,Division by zero error occurred while evaluating expression.
-0,--,--,--,--,Unable to evaluate status expression for graphic.
-0,--,--,--,--,Division by zero error occurred while evaluating expression.
+0.0225166666666667,Product.274,Filler1,53.OnEnteredProcessing,[Notify] IfEntityHasNoContainerElements,Filler object usage warning
+0.0225166666666667,Product.274,Filler1,53.OnEnteredProcessing,[Notify] IfEntityHasNoContainerElements,Entity 'Product.274' using Filler object 'Filler1' has no container elements to potentially fill.
 
