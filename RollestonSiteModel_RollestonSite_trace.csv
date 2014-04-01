@@ -1,4 +1,4 @@
 Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-1.93110858217069,Truck1[8],DockNode@ROM_Dock,26.OnEntered,[Transfer] ToOutboundLink,A potential transfer deadlock situation has been detected.
-1.93110858217069,Truck1[8],DockNode@ROM_Dock,26.OnEntered,[Transfer] ToOutboundLink,A potential transfer deadlock situation has been detected at node 'DockNode@ROM_Dock'. 
+0,--,--,--,--,Unable to evaluate status expression for graphic.
+0,--,--,--,--,Division by zero error occurred while evaluating expression.
 
