@@ -1,20 +1,242 @@
 Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-0,Truck[1],RollestonSite,75.RequestBCMCTruck,[Notify] TruckRequested,Truck Requested
-0,Truck[1],RollestonSite,75.RequestBCMCTruck,[Notify] TruckRequested,Truck Truck Requested By BCMC
-0,Truck[2],RollestonSite,76.RequestBWMWTruck,[Notify] TruckRequested,Truck Requested
-0,Truck[2],RollestonSite,76.RequestBWMWTruck,[Notify] TruckRequested,Truck Truck Requested By BWMW
-0,Truck[3],RollestonSite,75.RequestSCTruck,[Notify] TruckRequested,Truck Requested
-0,Truck[3],RollestonSite,75.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
-0.166666666666667,Truck[4],RollestonSite,75.RequestBWMWTruck,[Notify] TruckRequested,Truck Requested
-0.166666666666667,Truck[4],RollestonSite,75.RequestBWMWTruck,[Notify] TruckRequested,Truck Truck Requested By BWMW
-0.166666666666667,Truck[5],RollestonSite,93.RequestSCTruck,[Notify] TruckRequested,Truck Requested
-0.166666666666667,Truck[5],RollestonSite,93.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
-0.38126592788081,Truck[6],RollestonSite,88.RequestBCMCTruck,[Notify] TruckRequested,Truck Requested
-0.38126592788081,Truck[6],RollestonSite,88.RequestBCMCTruck,[Notify] TruckRequested,Truck Truck Requested By BCMC
-0.61812060690921,Truck[7],RollestonSite,94.RequestBWMWTruck,[Notify] TruckRequested,Truck Requested
-0.61812060690921,Truck[7],RollestonSite,94.RequestBWMWTruck,[Notify] TruckRequested,Truck Truck Requested By BWMW
-0.628233698712154,Truck[8],RollestonSite,113.RequestSCTruck,[Notify] TruckRequested,Truck Requested
-0.628233698712154,Truck[8],RollestonSite,113.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
-0.870325561420208,Truck[9],RollestonSite,92.RequestBCMCTruck,[Notify] TruckRequested,Truck Requested
-0.870325561420208,Truck[9],RollestonSite,92.RequestBCMCTruck,[Notify] TruckRequested,Truck Truck Requested By BCMC
+0,Truck[1],RollestonSite,99.RequestBCMCTruck,[Notify] TruckRequested,Truck Requested
+0,Truck[1],RollestonSite,99.RequestBCMCTruck,[Notify] TruckRequested,Truck Truck Requested By BCMC
+0,Truck[2],RollestonSite,100.RequestBWMWTruck,[Notify] TruckRequested,Truck Requested
+0,Truck[2],RollestonSite,100.RequestBWMWTruck,[Notify] TruckRequested,Truck Truck Requested By BWMW
+0,Truck[3],RollestonSite,99.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+0,Truck[3],RollestonSite,99.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+0.0833333333333333,Truck[4],RollestonSite,117.RequestBCMCTruck,[Notify] TruckRequested,Truck Requested
+0.0833333333333333,Truck[4],RollestonSite,117.RequestBCMCTruck,[Notify] TruckRequested,Truck Truck Requested By BCMC
+0.0833333333333333,Truck[5],RollestonSite,99.RequestBWMWTruck,[Notify] TruckRequested,Truck Requested
+0.0833333333333333,Truck[5],RollestonSite,99.RequestBWMWTruck,[Notify] TruckRequested,Truck Truck Requested By BWMW
+0.0833333333333333,Truck[6],RollestonSite,117.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+0.0833333333333333,Truck[6],RollestonSite,117.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+0.166666666666667,Truck[7],RollestonSite,117.RequestBWMWTruck,[Notify] TruckRequested,Truck Requested
+0.166666666666667,Truck[7],RollestonSite,117.RequestBWMWTruck,[Notify] TruckRequested,Truck Truck Requested By BWMW
+0.166666666666667,Truck[8],RollestonSite,100.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+0.166666666666667,Truck[8],RollestonSite,100.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+0.401426037113273,Truck[9],RollestonSite,119.RequestBCMCTruck,[Notify] TruckRequested,Truck Requested
+0.401426037113273,Truck[9],RollestonSite,119.RequestBCMCTruck,[Notify] TruckRequested,Truck Truck Requested By BCMC
+0.484759370446607,Truck[10],RollestonSite,132.RequestBCMCTruck,[Notify] TruckRequested,Truck Requested
+0.484759370446607,Truck[10],RollestonSite,132.RequestBCMCTruck,[Notify] TruckRequested,Truck Truck Requested By BCMC
+0.582386559846145,Truck[11],RollestonSite,132.RequestBWMWTruck,[Notify] TruckRequested,Truck Requested
+0.582386559846145,Truck[11],RollestonSite,132.RequestBWMWTruck,[Notify] TruckRequested,Truck Truck Requested By BWMW
+0.588716650126779,Truck[12],RollestonSite,120.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+0.588716650126779,Truck[12],RollestonSite,120.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+0.591426037113273,Truck[1],RollestonSite,118.ReturnTruckBCMC,[Notify] TruckReturned,Truck Returned
+0.591426037113273,Truck[1],RollestonSite,118.ReturnTruckBCMC,[Notify] TruckReturned,Truck Returned From BCMC
+0.665719893179478,Truck[13],RollestonSite,116.RequestBWMWTruck,[Notify] TruckRequested,Truck Requested
+0.665719893179478,Truck[13],RollestonSite,116.RequestBWMWTruck,[Notify] TruckRequested,Truck Truck Requested By BWMW
+0.672049983460112,Truck[14],RollestonSite,110.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+0.672049983460112,Truck[14],RollestonSite,110.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+0.755383316793446,Truck[15],RollestonSite,140.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+0.755383316793446,Truck[15],RollestonSite,140.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+0.904715369848332,Truck[2],RollestonSite,117.ReturnTruckBWMW,[Notify] TruckReturned,Truck Returned
+0.904715369848332,Truck[2],RollestonSite,117.ReturnTruckBWMW,[Notify] TruckReturned,Truck Returned From BCMC
+1.0117210229579,Truck[2],RollestonSite,118.ReturnTruckBWMW,[Notify] TruckReturned,Truck Returned
+1.0117210229579,Truck[2],RollestonSite,118.ReturnTruckBWMW,[Notify] TruckReturned,Truck Returned From BCMC
+1.17345694791029,Truck[16],RollestonSite,142.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+1.17345694791029,Truck[16],RollestonSite,142.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+1.25679028124362,Truck[3],RollestonSite,137.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+1.25679028124362,Truck[3],RollestonSite,137.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+1.31863229322059,Truck[6],RollestonSite,130.RequestBWMWTruck,[Notify] TruckRequested,Truck Requested
+1.31863229322059,Truck[6],RollestonSite,130.RequestBWMWTruck,[Notify] TruckRequested,Truck Truck Requested By BWMW
+1.34012361457695,Truck[8],RollestonSite,99.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+1.34012361457695,Truck[8],RollestonSite,99.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+1.64523524459003,Truck[5],RollestonSite,132.ReturnTruckBWMW,[Notify] TruckReturned,Truck Returned
+1.64523524459003,Truck[5],RollestonSite,132.ReturnTruckBWMW,[Notify] TruckReturned,Truck Returned From BCMC
+1.74623457993603,Truck[5],RollestonSite,132.ReturnTruckBWMW,[Notify] TruckReturned,Truck Returned
+1.74623457993603,Truck[5],RollestonSite,132.ReturnTruckBWMW,[Notify] TruckReturned,Truck Returned From BCMC
+1.75875280124935,Truck[1],RollestonSite,110.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+1.75875280124935,Truck[1],RollestonSite,110.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+1.84208613458268,Truck[2],RollestonSite,123.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+1.84208613458268,Truck[2],RollestonSite,123.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+1.92541946791601,Truck[12],RollestonSite,123.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+1.92541946791601,Truck[12],RollestonSite,123.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+2.06292126258599,Truck[14],RollestonSite,136.RequestBWMWTruck,[Notify] TruckRequested,Truck Requested
+2.06292126258599,Truck[14],RollestonSite,136.RequestBWMWTruck,[Notify] TruckRequested,Truck Truck Requested By BWMW
+2.33931746220323,Truck[15],RollestonSite,128.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+2.33931746220323,Truck[15],RollestonSite,128.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+2.3857028046318,Truck[13],RollestonSite,113.ReturnTruckBWMW,[Notify] TruckReturned,Truck Returned
+2.3857028046318,Truck[13],RollestonSite,113.ReturnTruckBWMW,[Notify] TruckReturned,Truck Returned From BCMC
+2.42265079553657,Truck[16],RollestonSite,137.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+2.42265079553657,Truck[16],RollestonSite,137.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+2.4899598515014,Truck[13],RollestonSite,130.ReturnTruckBWMW,[Notify] TruckReturned,Truck Returned
+2.4899598515014,Truck[13],RollestonSite,130.ReturnTruckBWMW,[Notify] TruckReturned,Truck Returned From BCMC
+2.5059841288699,Truck[5],RollestonSite,116.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+2.5059841288699,Truck[5],RollestonSite,116.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+2.55338355810997,Truck[3],RollestonSite,121.RequestBCMCTruck,[Notify] TruckRequested,Truck Requested
+2.55338355810997,Truck[3],RollestonSite,121.RequestBCMCTruck,[Notify] TruckRequested,Truck Truck Requested By BCMC
+2.80599049134266,Truck[8],RollestonSite,127.RequestBWMWTruck,[Notify] TruckRequested,Truck Requested
+2.80599049134266,Truck[8],RollestonSite,127.RequestBWMWTruck,[Notify] TruckRequested,Truck Truck Requested By BWMW
+2.92670113395711,Truck[1],RollestonSite,99.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+2.92670113395711,Truck[1],RollestonSite,99.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+3.01003446729044,Truck[2],RollestonSite,119.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+3.01003446729044,Truck[2],RollestonSite,119.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+3.09336780062377,Truck[12],RollestonSite,125.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+3.09336780062377,Truck[12],RollestonSite,125.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+3.50726579491099,Truck[13],RollestonSite,138.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+3.50726579491099,Truck[13],RollestonSite,138.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+3.59059912824432,Truck[15],RollestonSite,121.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+3.59059912824432,Truck[15],RollestonSite,121.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+3.67393246157766,Truck[16],RollestonSite,132.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+3.67393246157766,Truck[16],RollestonSite,132.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+4.08582011012148,Truck[5],RollestonSite,111.RequestROMTruckProcess,[Notify] TruckRequested,Truck Requested
+4.08582011012148,Truck[5],RollestonSite,111.RequestROMTruckProcess,[Notify] TruckRequested,Truck Truck Requested By ROM
+4.09673728507967,Truck[1],RollestonSite,133.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+4.09673728507967,Truck[1],RollestonSite,133.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+4.18007061841301,Truck[2],RollestonSite,121.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+4.18007061841301,Truck[2],RollestonSite,121.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+4.26340395174634,Truck[12],RollestonSite,128.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+4.26340395174634,Truck[12],RollestonSite,128.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+4.67730194603356,Truck[13],RollestonSite,139.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+4.67730194603356,Truck[13],RollestonSite,139.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+4.76063527936689,Truck[15],RollestonSite,125.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+4.76063527936689,Truck[15],RollestonSite,125.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+4.84396861270022,Truck[16],RollestonSite,100.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+4.84396861270022,Truck[16],RollestonSite,100.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+5.26677343620224,Truck[1],RollestonSite,137.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+5.26677343620224,Truck[1],RollestonSite,137.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+5.34291981924066,Truck[9],RollestonSite,146.ReturnTruckBCMC,[Notify] TruckReturned,Truck Returned
+5.34291981924066,Truck[9],RollestonSite,146.ReturnTruckBCMC,[Notify] TruckReturned,Truck Returned From BCMC
+5.35010676953557,Truck[2],RollestonSite,133.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+5.35010676953557,Truck[2],RollestonSite,133.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+5.43344010286891,Truck[12],RollestonSite,142.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+5.43344010286891,Truck[12],RollestonSite,142.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+5.84733809715612,Truck[13],RollestonSite,137.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+5.84733809715612,Truck[13],RollestonSite,137.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+5.93067143048946,Truck[15],RollestonSite,116.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+5.93067143048946,Truck[15],RollestonSite,116.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+6.01400476382279,Truck[9],RollestonSite,119.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+6.01400476382279,Truck[9],RollestonSite,119.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+6.43207839493963,Truck[16],RollestonSite,110.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+6.43207839493963,Truck[16],RollestonSite,110.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+6.51541172827296,Truck[1],RollestonSite,125.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+6.51541172827296,Truck[1],RollestonSite,125.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+6.59874506160629,Truck[2],RollestonSite,123.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+6.59874506160629,Truck[2],RollestonSite,123.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+7.01737424827869,Truck[12],RollestonSite,114.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+7.01737424827869,Truck[12],RollestonSite,114.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+7.10070758161202,Truck[13],RollestonSite,140.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+7.10070758161202,Truck[13],RollestonSite,140.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+7.18404091494536,Truck[15],RollestonSite,119.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+7.18404091494536,Truck[15],RollestonSite,119.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+7.60211454606219,Truck[9],RollestonSite,150.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+7.60211454606219,Truck[9],RollestonSite,150.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+7.68544787939553,Truck[16],RollestonSite,113.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+7.68544787939553,Truck[16],RollestonSite,113.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+7.76878121272886,Truck[1],RollestonSite,148.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+7.76878121272886,Truck[1],RollestonSite,148.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+8.07066244493214,Truck[2],RollestonSite,99.RequestROMTruckProcess,[Notify] TruckRequested,Truck Requested
+8.07066244493214,Truck[2],RollestonSite,99.RequestROMTruckProcess,[Notify] TruckRequested,Truck Truck Requested By ROM
+8.18629389829225,Truck[12],RollestonSite,134.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+8.18629389829225,Truck[12],RollestonSite,134.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+8.26962723162559,Truck[13],RollestonSite,124.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+8.26962723162559,Truck[13],RollestonSite,124.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+8.35296056495892,Truck[15],RollestonSite,148.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+8.35296056495892,Truck[15],RollestonSite,148.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+8.77103419607578,Truck[5],RollestonSite,139.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+8.77103419607578,Truck[5],RollestonSite,139.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+8.85436752940911,Truck[9],RollestonSite,142.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+8.85436752940911,Truck[9],RollestonSite,142.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+8.89673448358252,Truck[16],RollestonSite,128.RequestBCMCTruck,[Notify] TruckRequested,Truck Requested
+8.89673448358252,Truck[16],RollestonSite,128.RequestBCMCTruck,[Notify] TruckRequested,Truck Truck Requested By BCMC
+8.93770086274245,Truck[1],RollestonSite,100.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+8.93770086274245,Truck[1],RollestonSite,100.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+9.35159885702968,Truck[12],RollestonSite,128.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+9.35159885702968,Truck[12],RollestonSite,128.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+9.43493219036301,Truck[13],RollestonSite,144.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+9.43493219036301,Truck[13],RollestonSite,144.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+9.51826552369635,Truck[15],RollestonSite,126.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+9.51826552369635,Truck[15],RollestonSite,126.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+9.9363391548132,Truck[5],RollestonSite,134.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+9.9363391548132,Truck[5],RollestonSite,134.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+10.0196724881465,Truck[9],RollestonSite,137.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+10.0196724881465,Truck[9],RollestonSite,137.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+10.1030058214799,Truck[1],RollestonSite,148.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+10.1030058214799,Truck[1],RollestonSite,148.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+10.5169038157671,Truck[12],RollestonSite,132.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+10.5169038157671,Truck[12],RollestonSite,132.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+10.6002371491004,Truck[13],RollestonSite,143.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+10.6002371491004,Truck[13],RollestonSite,143.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+10.6835704824338,Truck[15],RollestonSite,120.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+10.6835704824338,Truck[15],RollestonSite,120.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+11.1016441135506,Truck[5],RollestonSite,146.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+11.1016441135506,Truck[5],RollestonSite,146.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+11.184977446884,Truck[9],RollestonSite,148.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+11.184977446884,Truck[9],RollestonSite,148.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+11.2683107802173,Truck[1],RollestonSite,115.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+11.2683107802173,Truck[1],RollestonSite,115.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+11.6822087745045,Truck[12],RollestonSite,123.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+11.6822087745045,Truck[12],RollestonSite,123.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+11.7655421078379,Truck[13],RollestonSite,99.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+11.7655421078379,Truck[13],RollestonSite,99.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+11.8488754411712,Truck[15],RollestonSite,125.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+11.8488754411712,Truck[15],RollestonSite,125.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+12,Truck[5],RollestonSite,123.RequestBCMCTruck,[Notify] TruckRequested,Truck Requested
+12,Truck[5],RollestonSite,123.RequestBCMCTruck,[Notify] TruckRequested,Truck Truck Requested By BCMC
+12,Truck[9],RollestonSite,141.RequestBWMWTruck,[Notify] TruckRequested,Truck Requested
+12,Truck[9],RollestonSite,141.RequestBWMWTruck,[Notify] TruckRequested,Truck Truck Requested By BWMW
+12,Truck[1],RollestonSite,114.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+12,Truck[1],RollestonSite,114.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+12.073388102558,Truck[7],RollestonSite,156.RequestROMTruckProcess,[Notify] TruckRequested,Truck Requested
+12.073388102558,Truck[7],RollestonSite,156.RequestROMTruckProcess,[Notify] TruckRequested,Truck Truck Requested By ROM
+12.3529193490244,Truck[16],RollestonSite,90.RequestBCMCTruck,[Notify] TruckRequested,Truck Requested
+12.3529193490244,Truck[16],RollestonSite,90.RequestBCMCTruck,[Notify] TruckRequested,Truck Truck Requested By BCMC
+12.3807783834403,Truck[10],RollestonSite,96.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+12.3807783834403,Truck[10],RollestonSite,96.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+12.4362526823577,Truck[2],RollestonSite,159.RequestBCMCTruck,[Notify] TruckRequested,Truck Requested
+12.4362526823577,Truck[2],RollestonSite,159.RequestBCMCTruck,[Notify] TruckRequested,Truck Truck Requested By BCMC
+12.4641117167737,Truck[8],RollestonSite,157.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+12.4641117167737,Truck[8],RollestonSite,157.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+12.4849607486058,Truck[3],RollestonSite,93.RequestBWMWTruck,[Notify] TruckRequested,Truck Requested
+12.4849607486058,Truck[3],RollestonSite,93.RequestBWMWTruck,[Notify] TruckRequested,Truck Truck Requested By BWMW
+12.547445050107,Truck[12],RollestonSite,113.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+12.547445050107,Truck[12],RollestonSite,113.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+12.5682940819391,Truck[11],RollestonSite,141.RequestBWMWTruck,[Notify] TruckRequested,Truck Requested
+12.5682940819391,Truck[11],RollestonSite,141.RequestBWMWTruck,[Notify] TruckRequested,Truck Truck Requested By BWMW
+12.6516274152725,Truck[4],RollestonSite,152.RequestBWMWTruck,[Notify] TruckRequested,Truck Requested
+12.6516274152725,Truck[4],RollestonSite,152.RequestBWMWTruck,[Notify] TruckRequested,Truck Truck Requested By BWMW
+12.9631466965209,Truck[13],RollestonSite,93.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+12.9631466965209,Truck[13],RollestonSite,93.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+13.0464800298543,Truck[6],RollestonSite,141.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+13.0464800298543,Truck[6],RollestonSite,141.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+13.1298133631876,Truck[15],RollestonSite,141.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+13.1298133631876,Truck[15],RollestonSite,141.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+13.1659645517882,Truck[1],RollestonSite,149.RequestBWMWTruck,[Notify] TruckRequested,Truck Requested
+13.1659645517882,Truck[1],RollestonSite,149.RequestBWMWTruck,[Notify] TruckRequested,Truck Truck Requested By BWMW
+13.5557859445713,Truck[14],RollestonSite,118.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+13.5557859445713,Truck[14],RollestonSite,118.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+13.5936591015315,Truck[1],RollestonSite,94.ReturnTruckBWMW,[Notify] TruckReturned,Truck Returned
+13.5936591015315,Truck[1],RollestonSite,94.ReturnTruckBWMW,[Notify] TruckReturned,Truck Returned From BCMC
+13.6391192779047,Truck[10],RollestonSite,154.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+13.6391192779047,Truck[10],RollestonSite,154.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+13.722452611238,Truck[8],RollestonSite,100.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+13.722452611238,Truck[8],RollestonSite,100.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+14.1432897251368,Truck[12],RollestonSite,131.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+14.1432897251368,Truck[12],RollestonSite,131.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+14.2266230584702,Truck[13],RollestonSite,120.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+14.2266230584702,Truck[13],RollestonSite,120.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+14.3099563918035,Truck[6],RollestonSite,150.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+14.3099563918035,Truck[6],RollestonSite,150.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+14.7307935057023,Truck[15],RollestonSite,131.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+14.7307935057023,Truck[15],RollestonSite,131.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+14.8141268390357,Truck[1],RollestonSite,100.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+14.8141268390357,Truck[1],RollestonSite,100.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+14.897460172369,Truck[14],RollestonSite,92.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+14.897460172369,Truck[14],RollestonSite,92.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+15.3234327537527,Truck[10],RollestonSite,118.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+15.3234327537527,Truck[10],RollestonSite,118.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+15.4067660870861,Truck[8],RollestonSite,100.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+15.4067660870861,Truck[8],RollestonSite,100.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+15.4900994204194,Truck[12],RollestonSite,92.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+15.4900994204194,Truck[12],RollestonSite,92.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+15.9058010668333,Truck[13],RollestonSite,93.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+15.9058010668333,Truck[13],RollestonSite,93.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+15.9891344001667,Truck[6],RollestonSite,120.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+15.9891344001667,Truck[6],RollestonSite,120.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+16.0724677335,Truck[15],RollestonSite,146.RequestSCTruck,[Notify] TruckRequested,Truck Requested
+16.0724677335,Truck[15],RollestonSite,146.RequestSCTruck,[Notify] TruckRequested,Truck Truck Requested By SC
+16.0762865839315,Truck[1],RollestonSite,154.RequestROMTruckProcess,[Notify] TruckRequested,Truck Requested
+16.0762865839315,Truck[1],RollestonSite,154.RequestROMTruckProcess,[Notify] TruckRequested,Truck Truck Requested By ROM
 
