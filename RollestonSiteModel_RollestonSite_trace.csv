@@ -1,4 +1,3 @@
 Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-462,TruckTask.29390,RollestonSite,116.SCTaskServer_BeforeProcessing,[Search] Tank,Excessive looping in process logic
-462,TruckTask.29390,RollestonSite,116.SCTaskServer_BeforeProcessing,[Search] Tank,The process 'SCTaskServer_BeforeProcessing' has logic that has looped 200000 times without a delay or blockage. This may indicate a modeling error. 
+690,RollestonSite,RollestonSite,182.DebuggerProcess,[Notify] TELL ME,THis
 
