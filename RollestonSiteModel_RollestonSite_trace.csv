@@ -1,19 +1,4 @@
 Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-0,--,--,--,--,Unable to evaluate status expression for graphic.
-0,--,--,--,--,This expression is not valid under the executing object instance 'ROMTaskServer' of type 'Server'.
-0,--,--,--,--,Unable to evaluate status expression for graphic.
-0,--,--,--,--,This expression is not valid under the executing object instance 'SCTaskServer' of type 'Server'.
-0,--,--,--,--,Unable to evaluate status expression for graphic.
-0,--,--,--,--,This expression is not valid under the executing object instance 'BCMCTaskServer' of type 'Server'.
-0,--,--,--,--,Unable to evaluate status expression for graphic.
-0,--,--,--,--,This expression is not valid under the executing object instance 'BWMWTaskServer' of type 'Server'.
-1373.9450774652,--,--,--,--,Unable to evaluate status expression for graphic.
-1373.9450774652,--,--,--,--,This expression is not valid under the executing object instance 'ROMTaskServer' of type 'Server'.
-1373.9450774652,--,--,--,--,Unable to evaluate status expression for graphic.
-1373.9450774652,--,--,--,--,This expression is not valid under the executing object instance 'SCTaskServer' of type 'Server'.
-1373.9450774652,--,--,--,--,Unable to evaluate status expression for graphic.
-1373.9450774652,--,--,--,--,This expression is not valid under the executing object instance 'BCMCTaskServer' of type 'Server'.
-1373.9450774652,--,--,--,--,Unable to evaluate status expression for graphic.
-1373.9450774652,--,--,--,--,This expression is not valid under the executing object instance 'BWMWTaskServer' of type 'Server'.
-4810,RollestonSite,RollestonSite,86.DebuggerProcess,[Notify] TELL ME,THis
+564.000277777778,TruckTask.30465,RollestonSite,129.Output_SouthernTaskSource_Entered,[Assign] Reset,Excessive looping in process logic
+564.000277777778,TruckTask.30465,RollestonSite,129.Output_SouthernTaskSource_Entered,[Assign] Reset,The process 'Output_SouthernTaskSource_Entered' has logic that has looped 200000 times without a delay or blockage. This may indicate a modeling error. 
 
