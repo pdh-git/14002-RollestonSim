@@ -1,4 +1,54 @@
 Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-564.000277777778,TruckTask.30465,RollestonSite,129.Output_SouthernTaskSource_Entered,[Assign] Reset,Excessive looping in process logic
-564.000277777778,TruckTask.30465,RollestonSite,129.Output_SouthernTaskSource_Entered,[Assign] Reset,The process 'Output_SouthernTaskSource_Entered' has logic that has looped 200000 times without a delay or blockage. This may indicate a modeling error. 
+102.293313701243,Truck[3],LookaheadPathSC,122.OnReachedEnd,[Transfer] FromTimePath,Entity 'Truck[3]' initiating transfer from '[EndOfLink] LookaheadPathSC' into node 'TruckYard'.
+102.293313701243,Truck[3],TruckYard,159.OnEntered,[Begin],Process 'OnEntered' initiated.
+102.293313701243,Truck[3],TruckYard,159.OnEntered,[Fire] EnteredEvent,Firing event 'TruckYard.Entered'.
+102.293313701243,Truck[3],TruckYard,159.OnEntered,[Execute] Entered_AddOnProcess,Executing process 'TruckYard_Entered'.
+102.293313701243,Truck[3],RollestonSite,104.TruckYard_Entered,[Begin],Process 'TruckYard_Entered' initiated.
+102.293313701243,Truck[3],RollestonSite,104.TruckYard_Entered,[Decide] Is.Transporter,Token branching on condition 'Is.Transporter'.
+102.293313701243,Truck[3],RollestonSite,104.TruckYard_Entered,[Decide] Is.Transporter,Token sent to 'True' exit.
+102.293313701243,Truck[3],RollestonSite,104.TruckYard_Entered,[Decide] IsLoaded,Token branching on condition 'Transporter.RideStation.Contents>0'.
+102.293313701243,Truck[3],RollestonSite,104.TruckYard_Entered,[Decide] IsLoaded,Token sent to 'False' exit.
+102.293313701243,Truck[3],RollestonSite,104.TruckYard_Entered,[End],Process 'TruckYard_Entered' ended.
+102.293313701243,Truck[3],TruckYard,159.OnEntered,[VisitNode] Traveler,Executing process 'Truck[3].OnVisitingNode'.
+102.293313701243,Truck[3],Truck[3],67.OnVisitingNode,[Begin],Process 'OnVisitingNode' initiated.
+102.293313701243,Truck[3],Truck[3],67.OnVisitingNode,[Decide] IfNotVisitingNode,"Token branching on condition 'Math.If(IgnoreVisitingCurrentNode, True, ResourceState==List.ResourceStateName.Idle, False, ResourceState==List.ResourceStateName.OffShift, ((OffShiftAction==List.VehicleOffShiftAction.GoToHome)||(OffShiftAction==List.VehicleOffShiftAction.ParkAtHome))&&(HomeNode!=Nothing)&&(DestinationNode==HomeNode)&&(CurrentNode!=HomeNode),(DestinationNode!=Nothing)&&(CurrentNode!=DestinationNode), True, False)'."
+102.293313701243,Truck[3],Truck[3],67.OnVisitingNode,[Decide] IfNotVisitingNode,Token sent to 'True' exit.
+102.293313701243,Truck[3],Truck[3],67.OnVisitingNode,[Decide] IfParked,Token branching on condition 'IsParked'.
+102.293313701243,Truck[3],Truck[3],67.OnVisitingNode,[Decide] IfParked,Token sent to 'False' exit.
+102.293313701243,Truck[3],Truck[3],67.OnVisitingNode,[Assign] IgnoreVisitingCurrentNodeFlag,Assigning state variable 'IgnoreVisitingCurrentNode' the value '0' .
+102.293313701243,Truck[3],Truck[3],67.OnVisitingNode,[End],Process 'OnVisitingNode' ended.
+102.293313701243,Truck[3],TruckYard,159.OnEntered,[Transfer] ToOutboundLink,Entity 'Truck[3]' initiating transfer from '[Node] TruckYard' onto link 'ToHopper'.
+102.293313701243,Truck[3],ToHopper,104.OnEntered,[Begin],Process 'OnEntered' initiated.
+102.293313701243,Truck[3],ToHopper,104.OnEntered,[Assign] EntityMovementRate,Assigning state variable 'Token.104.ReturnValue' the value '0.00972222222222222' .
+102.293313701243,Truck[3],ToHopper,104.OnEntered,[Assign] EntityMovementRate,Assigning state variable 'Truck[3].Movement.Rate' the value '2800.8' Meters per Hour.
+102.293313701243,Truck[3],ToHopper,104.OnEntered,[EndTransfer] OntoTimePath,Entity 'Truck[3]' ending transfer onto link 'ToHopper'.
+102.293313701243,Truck[3],ToHopper,104.OnEntered,[End],Process 'OnEntered' ended.
+102.293313701243,Truck[3],LookaheadPathSC,122.OnReachedEnd,[End],Process 'OnReachedEnd' ended.
+102.293313701243,Truck[3],TruckYard,159.OnEntered,[End],Process 'OnEntered' ended.
+102.293345019382,Truck[1],HopperTurnPath,159.OnReachedEnd,[Begin],Process 'OnReachedEnd' initiated.
+102.293345019382,Truck[1],HopperTurnPath,159.OnReachedEnd,[Transfer] FromTimePath,Entity 'Truck[1]' initiating transfer from '[EndOfLink] HopperTurnPath' into node 'HopperPoint'.
+102.293345019382,Truck[1],HopperPoint,122.OnEntered,[Begin],Process 'OnEntered' initiated.
+102.293345019382,Truck[1],HopperPoint,122.OnEntered,[Fire] EnteredEvent,Firing event 'HopperPoint.Entered'.
+102.293345019382,Truck[1],HopperPoint,122.OnEntered,[VisitNode] Traveler,Executing process 'Truck[1].OnVisitingNode'.
+102.293345019382,Truck[1],Truck[1],104.OnVisitingNode,[Begin],Process 'OnVisitingNode' initiated.
+102.293345019382,Truck[1],Truck[1],104.OnVisitingNode,[Decide] IfNotVisitingNode,"Token branching on condition 'Math.If(IgnoreVisitingCurrentNode, True, ResourceState==List.ResourceStateName.Idle, False, ResourceState==List.ResourceStateName.OffShift, ((OffShiftAction==List.VehicleOffShiftAction.GoToHome)||(OffShiftAction==List.VehicleOffShiftAction.ParkAtHome))&&(HomeNode!=Nothing)&&(DestinationNode==HomeNode)&&(CurrentNode!=HomeNode),(DestinationNode!=Nothing)&&(CurrentNode!=DestinationNode), True, False)'."
+102.293345019382,Truck[1],Truck[1],104.OnVisitingNode,[Decide] IfNotVisitingNode,Token sent to 'False' exit.
+102.293345019382,Truck[1],Truck[1],104.OnVisitingNode,[Decide] IfBusy,Token branching on condition '(ResourceState==List.ResourceStateName.Busy)||(ResourceState==List.ResourceStateName.OffShiftBusy)'.
+102.293345019382,Truck[1],Truck[1],104.OnVisitingNode,[Decide] IfBusy,Token sent to 'False' exit.
+102.293345019382,Truck[1],Truck[1],104.OnVisitingNode,[Decide] IfLoadingUnloading,"Token branching on condition 'Math.If(ResourceState==List.ResourceStateName.OffShift, False, (ResourceState==List.ResourceStateName.Transporting)||(ResourceState==List.ResourceStateName.OffShiftTransporting), True, Node.RidePickupQueue.NumberWaiting>0)'."
+102.293345019382,Truck[1],Truck[1],104.OnVisitingNode,[Decide] IfLoadingUnloading,Token sent to 'True' exit.
+102.293345019382,Truck[1],Truck[1],104.OnVisitingNode,[Decide] IsDock,Token branching on condition '(CurrentNode.AssociatedObject != Nothing) && CurrentNode.AssociatedObject.Is.Dock'.
+102.293345019382,Truck[1],Truck[1],104.OnVisitingNode,[Decide] IsDock,Token sent to 'False' exit.
+102.293345019382,Truck[1],Truck[1],104.OnVisitingNode,[Dropoff] Rider,Transporter 'Truck[1]' failed to drop off a rider at node 'HopperPoint'. No eligible dropoff requests.
+102.293345019382,Truck[1],Truck[1],104.OnVisitingNode,[Delay] FlowInitialized,Delaying token for '1E-15' Hours until time '102.293345019382' Hours.
+102.293345019382,Truck[1],Truck[1],104.OnVisitingNode,[Pickup] Rider,Transporter 'Truck[1]' searching '0' pickup request(s) waiting at node 'HopperPoint'.
+102.293345019382,Truck[1],Truck[1],104.OnVisitingNode,[Pickup] Rider,Transporter 'Truck[1]' failed to pick up a rider at node 'HopperPoint'. No eligible pickup requests.
+102.293345019382,RollestonSite,RollestonSite,67.OnRunEnding,[Begin],Process 'OnRunEnding' initiated.
+102.293345019382,RollestonSite,RollestonSite,67.OnRunEnding,[Write] Blank,"Writing out """" to file MonthlyLog"
+102.293345019382,RollestonSite,RollestonSite,67.OnRunEnding,[Write] Header,"Writing out ""INPUTS"" to file MonthlyLog"
+102.293345019382,RollestonSite,RollestonSite,67.OnRunEnding,[Write] Blank,"Writing out """" to file MonthlyLog"
+102.293345019382,RollestonSite,RollestonSite,67.OnRunEnding,[Write] Titles,"Writing out ""This"" to file MonthlyLog"
+102.293345019382,RollestonSite,RollestonSite,67.OnRunEnding,[Write] Sub,"Writing out ""Is"" to file MonthlyLog"
+102.293345019382,RollestonSite,RollestonSite,67.OnRunEnding,[Write] Inputs,"Writing out ""An Example"" to file MonthlyLog"
+102.293345019382,RollestonSite,RollestonSite,67.OnRunEnding,[End],Process 'OnRunEnding' ended.
 
