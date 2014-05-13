@@ -1,15 +1,3 @@
 Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-100,RollestonSite,RollestonSite,137.DebuggerProcess,[Notify] Notify2,me
-4440.50055555556,Truck[3],Truck[3],123.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-4440.50055555556,Truck[3],Truck[3],123.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-4440.5672222217,Truck[14],Truck[14],177.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-4440.5672222217,Truck[14],Truck[14],177.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-4440.6672222217,Truck[16],Truck[16],177.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-4440.6672222217,Truck[16],Truck[16],177.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-6600.50027777778,Truck[11],Truck[11],193.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-6600.50027777778,Truck[11],Truck[11],193.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-6604.79194444445,Truck[12],Truck[12],82.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-6604.79194444445,Truck[12],Truck[12],82.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-6608.79194444445,Truck[6],Truck[6],213.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-6608.79194444445,Truck[6],Truck[6],213.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+228,RollestonSite,RollestonSite,113.DebuggerProcess,[Notify] Notify2,me
 
