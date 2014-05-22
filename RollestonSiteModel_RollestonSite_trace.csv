@@ -1,0 +1,19 @@
+Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
+3197.20652946012,Truck[13],Truck[13],111.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+3197.20652946012,Truck[13],Truck[13],111.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+3197.20652946012,Truck[9],Truck[9],111.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+3197.20652946012,Truck[9],Truck[9],111.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+3197.20652946012,Truck[7],Truck[7],111.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+3197.20652946012,Truck[7],Truck[7],111.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+3200.79194444444,Truck[6],Truck[6],682.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+3200.79194444444,Truck[6],Truck[6],682.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+3200.8093353323,Truck[2],Truck[2],1047.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+3200.8093353323,Truck[2],Truck[2],1047.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+3200.9093353323,Truck[3],Truck[3],1026.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+3200.9093353323,Truck[3],Truck[3],1026.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+3201.0093353323,Truck[4],Truck[4],627.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+3201.0093353323,Truck[4],Truck[4],627.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+3201.1093353323,Truck[11],Truck[11],412.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+3201.1093353323,Truck[11],Truck[11],412.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+4400,RollestonSite,RollestonSite,183.DebuggerProcess,[Notify] Notify1,A
+
