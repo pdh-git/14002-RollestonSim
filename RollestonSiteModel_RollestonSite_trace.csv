@@ -1,97 +1,107 @@
 Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-585,RollestonSite,RollestonSite,170.DebuggerProcess,[Notify] Notify1,A
-1636.79194444444,Truck[14],Truck[14],145.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1636.79194444444,Truck[14],Truck[14],145.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1636.79222222222,Truck[5],Truck[5],224.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1636.79222222222,Truck[5],Truck[5],224.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1636.81540712644,Truck[10],Truck[10],90.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1636.81540712644,Truck[10],Truck[10],90.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1636.8673208456,Truck[2],Truck[2],90.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1636.8673208456,Truck[2],Truck[2],90.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1636.91540712644,Truck[1],Truck[1],90.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1636.91540712644,Truck[1],Truck[1],90.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1636.9673208456,Truck[13],Truck[13],90.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1636.9673208456,Truck[13],Truck[13],90.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1637.01540712644,Truck[3],Truck[3],90.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1637.01540712644,Truck[3],Truck[3],90.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1637.0673208456,Truck[6],Truck[6],90.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1637.0673208456,Truck[6],Truck[6],90.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1644.50027777778,Truck[11],Truck[11],50.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1644.50027777778,Truck[11],Truck[11],50.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1692.50027777778,Truck[12],Truck[12],202.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1692.50027777778,Truck[12],Truck[12],202.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1708.79194444444,Truck[14],Truck[14],241.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1708.79194444444,Truck[14],Truck[14],241.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1708.79222222222,Truck[5],Truck[5],99.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1708.79222222222,Truck[5],Truck[5],99.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1708.81540712644,Truck[10],Truck[10],242.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1708.81540712644,Truck[10],Truck[10],242.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1708.8673208456,Truck[2],Truck[2],242.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1708.8673208456,Truck[2],Truck[2],242.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1708.91540712644,Truck[1],Truck[1],242.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1708.91540712644,Truck[1],Truck[1],242.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1708.9673208456,Truck[13],Truck[13],242.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1708.9673208456,Truck[13],Truck[13],242.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1709.01540712644,Truck[3],Truck[3],242.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1709.01540712644,Truck[3],Truck[3],242.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1709.0673208456,Truck[6],Truck[6],242.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1709.0673208456,Truck[6],Truck[6],242.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1716.50027777778,Truck[11],Truck[11],168.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1716.50027777778,Truck[11],Truck[11],168.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1764.50027777778,Truck[12],Truck[12],228.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1764.50027777778,Truck[12],Truck[12],228.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1780.79194444444,Truck[14],Truck[14],167.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1780.79194444444,Truck[14],Truck[14],167.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1780.79222222222,Truck[5],Truck[5],265.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1780.79222222222,Truck[5],Truck[5],265.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1780.81540712644,Truck[10],Truck[10],237.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1780.81540712644,Truck[10],Truck[10],237.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1780.8673208456,Truck[2],Truck[2],237.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1780.8673208456,Truck[2],Truck[2],237.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1780.91540712644,Truck[1],Truck[1],237.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1780.91540712644,Truck[1],Truck[1],237.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1780.9673208456,Truck[13],Truck[13],237.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1780.9673208456,Truck[13],Truck[13],237.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1781.01540712644,Truck[3],Truck[3],237.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1781.01540712644,Truck[3],Truck[3],237.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1781.0673208456,Truck[6],Truck[6],237.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1781.0673208456,Truck[6],Truck[6],237.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1788.50027777778,Truck[11],Truck[11],211.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1788.50027777778,Truck[11],Truck[11],211.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1836.50027777778,Truck[12],Truck[12],262.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1836.50027777778,Truck[12],Truck[12],262.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1852.79194444444,Truck[14],Truck[14],228.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1852.79194444444,Truck[14],Truck[14],228.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1852.79222222222,Truck[5],Truck[5],283.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1852.79222222222,Truck[5],Truck[5],283.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1852.81540712644,Truck[10],Truck[10],231.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1852.81540712644,Truck[10],Truck[10],231.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1852.8673208456,Truck[2],Truck[2],231.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1852.8673208456,Truck[2],Truck[2],231.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1852.91540712644,Truck[1],Truck[1],231.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1852.91540712644,Truck[1],Truck[1],231.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1852.9673208456,Truck[13],Truck[13],231.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1852.9673208456,Truck[13],Truck[13],231.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1853.01540712644,Truck[3],Truck[3],231.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1853.01540712644,Truck[3],Truck[3],231.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1853.0673208456,Truck[6],Truck[6],231.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1853.0673208456,Truck[6],Truck[6],231.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1860.50027777778,Truck[11],Truck[11],175.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1860.50027777778,Truck[11],Truck[11],175.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1973.31417897997,Truck[12],Truck[12],293.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1973.31417897997,Truck[12],Truck[12],293.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1973.31417897997,Truck[14],Truck[14],293.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1973.31417897997,Truck[14],Truck[14],293.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1973.31417897997,Truck[2],Truck[2],293.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1973.31417897997,Truck[2],Truck[2],293.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1973.31417897997,Truck[13],Truck[13],293.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1973.31417897997,Truck[13],Truck[13],293.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1973.31417897997,Truck[6],Truck[6],293.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1973.31417897997,Truck[6],Truck[6],293.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-1973.31417897997,Truck[11],Truck[11],293.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-1973.31417897997,Truck[11],Truck[11],293.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-2020.79194444444,Truck[9],Truck[9],161.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-2020.79194444444,Truck[9],Truck[9],161.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
-2020.85826054129,Truck[3],Truck[3],298.SendToQueue,[Notify] TruckFinderException,TruckFinderException
-2020.85826054129,Truck[3],Truck[3],298.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+585,RollestonSite,RollestonSite,109.DebuggerProcess,[Notify] Notify1,A
+1540.79222222222,Truck[16],Truck[16],89.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1540.79222222222,Truck[16],Truck[16],89.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1540.79740328028,Truck[14],Truck[14],89.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1540.79740328028,Truck[14],Truck[14],89.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1540.89740328028,Truck[11],Truck[11],89.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1540.89740328028,Truck[11],Truck[11],89.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1540.99740328028,Truck[10],Truck[10],89.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1540.99740328028,Truck[10],Truck[10],89.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1544.79222222222,Truck[12],Truck[12],97.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1544.79222222222,Truck[12],Truck[12],97.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1544.84768105806,Truck[3],Truck[3],154.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1544.84768105806,Truck[3],Truck[3],154.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1544.94768105806,Truck[6],Truck[6],46.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1544.94768105806,Truck[6],Truck[6],46.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1545.04768105806,Truck[2],Truck[2],156.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1545.04768105806,Truck[2],Truck[2],156.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1548.50055555556,Truck[9],Truck[9],181.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1548.50055555556,Truck[9],Truck[9],181.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1548.5646255025,Truck[8],Truck[8],112.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1548.5646255025,Truck[8],Truck[8],112.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1548.6646255025,Truck[1],Truck[1],112.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1548.6646255025,Truck[1],Truck[1],112.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1548.7646255025,Truck[7],Truck[7],112.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1548.7646255025,Truck[7],Truck[7],112.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1612.79222222222,Truck[16],Truck[16],195.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1612.79222222222,Truck[16],Truck[16],195.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1612.79740328028,Truck[14],Truck[14],178.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1612.79740328028,Truck[14],Truck[14],178.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1612.89740328028,Truck[11],Truck[11],96.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1612.89740328028,Truck[11],Truck[11],96.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1612.99740328028,Truck[10],Truck[10],199.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1612.99740328028,Truck[10],Truck[10],199.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1616.79222222222,Truck[12],Truck[12],132.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1616.79222222222,Truck[12],Truck[12],132.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1616.84768105806,Truck[3],Truck[3],126.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1616.84768105806,Truck[3],Truck[3],126.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1616.94768105806,Truck[6],Truck[6],126.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1616.94768105806,Truck[6],Truck[6],126.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1617.04768105806,Truck[2],Truck[2],170.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1617.04768105806,Truck[2],Truck[2],170.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1620.50055555556,Truck[9],Truck[9],155.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1620.50055555556,Truck[9],Truck[9],155.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1620.5646255025,Truck[8],Truck[8],82.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1620.5646255025,Truck[8],Truck[8],82.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1620.6646255025,Truck[1],Truck[1],169.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1620.6646255025,Truck[1],Truck[1],169.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1620.7646255025,Truck[7],Truck[7],169.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1620.7646255025,Truck[7],Truck[7],169.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1664.79222222222,Truck[5],Truck[5],149.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1664.79222222222,Truck[5],Truck[5],149.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1684.79222222222,Truck[16],Truck[16],185.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1684.79222222222,Truck[16],Truck[16],185.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1684.79740328028,Truck[14],Truck[14],185.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1684.79740328028,Truck[14],Truck[14],185.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1684.89740328028,Truck[11],Truck[11],185.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1684.89740328028,Truck[11],Truck[11],185.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1684.99740328028,Truck[10],Truck[10],185.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1684.99740328028,Truck[10],Truck[10],185.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1688.79222222222,Truck[12],Truck[12],205.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1688.79222222222,Truck[12],Truck[12],205.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1688.84768105806,Truck[3],Truck[3],205.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1688.84768105806,Truck[3],Truck[3],205.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1688.94768105806,Truck[6],Truck[6],205.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1688.94768105806,Truck[6],Truck[6],205.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+1689.04768105806,Truck[2],Truck[2],205.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+1689.04768105806,Truck[2],Truck[2],205.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+7780.79194444445,Truck[3],Truck[3],317.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+7780.79194444445,Truck[3],Truck[3],317.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+7780.79222222222,Truck[14],Truck[14],414.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+7780.79222222222,Truck[14],Truck[14],414.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+7780.8184728107,Truck[1],Truck[1],443.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+7780.8184728107,Truck[1],Truck[1],443.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+7780.82226226557,Truck[4],Truck[4],443.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+7780.82226226557,Truck[4],Truck[4],443.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+7780.9184728107,Truck[9],Truck[9],443.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+7780.9184728107,Truck[9],Truck[9],443.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+7800.50027777778,Truck[10],Truck[10],427.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+7800.50027777778,Truck[10],Truck[10],427.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+7824.50027777778,Truck[12],Truck[12],429.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+7824.50027777778,Truck[12],Truck[12],429.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+7852.79194444445,Truck[3],Truck[3],360.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+7852.79194444445,Truck[3],Truck[3],360.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+7852.79222222222,Truck[14],Truck[14],373.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+7852.79222222222,Truck[14],Truck[14],373.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+7852.8184728107,Truck[1],Truck[1],448.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+7852.8184728107,Truck[1],Truck[1],448.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+7852.82226226557,Truck[4],Truck[4],448.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+7852.82226226557,Truck[4],Truck[4],448.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+7852.9184728107,Truck[9],Truck[9],448.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+7852.9184728107,Truck[9],Truck[9],448.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+7872.50027777778,Truck[10],Truck[10],440.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+7872.50027777778,Truck[10],Truck[10],440.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+7896.50027777778,Truck[12],Truck[12],447.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+7896.50027777778,Truck[12],Truck[12],447.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+7924.79194444445,Truck[3],Truck[3],473.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+7924.79194444445,Truck[3],Truck[3],473.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+7924.79222222222,Truck[14],Truck[14],471.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+7924.79222222222,Truck[14],Truck[14],471.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+7924.8184728107,Truck[1],Truck[1],471.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+7924.8184728107,Truck[1],Truck[1],471.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+7924.82226226557,Truck[4],Truck[4],471.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+7924.82226226557,Truck[4],Truck[4],471.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
+7924.9184728107,Truck[9],Truck[9],471.SendToQueue,[Notify] TruckFinderException,TruckFinderException
+7924.9184728107,Truck[9],Truck[9],471.SendToQueue,[Notify] TruckFinderException,Truck Exception- Truck Away from Home
 
